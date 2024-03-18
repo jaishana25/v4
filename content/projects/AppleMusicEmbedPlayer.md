@@ -1,12 +1,12 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+date: '2023-06-02'
+title: 'House Rental Website'
+github: 'https://github.com/jaishana25/dream-home'
+external: ''
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
+  - React.js
+  - CSS
+  - Django
 company: 'Apple'
 showInProjects: true
 ---

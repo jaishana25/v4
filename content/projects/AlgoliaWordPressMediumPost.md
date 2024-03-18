@@ -1,14 +1,14 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2023-05-07'
+title: 'Bone Mineral Analysis'
+github: 'https://github.com/jaishana25/Bone-mineral-analaysis'
+external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Python
+  - Analysis
+  - JupyterNotebook
+company: ''
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Using Parametric and Non parametric methods to analyse bone mineral data

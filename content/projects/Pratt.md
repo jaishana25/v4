@@ -1,14 +1,10 @@
 ---
-date: '2022-08-08'
-title: 'Pratt'
+date: ''
+title: ''
 github: ''
-external: 'https://www.pratt.edu/'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - WordPress Multisite
-  - Gutenberg
-  - JS
-company: 'Upstatement'
+  -
+company: ''
 showInProjects: false
 ---

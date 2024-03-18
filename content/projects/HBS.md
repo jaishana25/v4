@@ -1,12 +1,12 @@
 ---
-date: '2022-10-08'
-title: 'Harvard Business School Design System'
+date: ''
+title: ''
 github: ''
 external: ''
 tech:
-  - Storybook
-  - React
-  - TypeScript
-company: 'Upstatement'
+  -
+  -
+  -
+company: ''
 showInProjects: false
 ---

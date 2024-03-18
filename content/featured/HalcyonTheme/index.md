@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'IISc Lab Website'
+cover: './halycon.png'
+github: 'https://github.com/jaishana25/CPDM-Full'
+external: 'https://codm2.vercel.app/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React.js
+  - HTML CSS
+  - Django
+  - REST APIs
+  - SQLite
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+An aesthetic, dynamic website for the SCALE lab for the design and manufacturing lab at [Indian Institute of Science](https://iisc.ac.in/) which includes data of every student,staff in the department with their details. Information about the lab, events happening, job openings and a contact details page.

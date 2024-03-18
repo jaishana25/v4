@@ -1,14 +1,14 @@
 ---
-date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
-github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+date: '2023-07-02'
+title: 'GoalShip- A Goal Sharing App'
+github: 'https://github.com/jaishana25/GoalShip'
+external: 'https://github.com/ekanshthakur15/GoalShip'
 tech:
-  - Ember
-  - JS
-  - SCSS
-company: 'Apple'
+  - Flutter
+  - Django
+  - Figma
+company: ''
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+A Mobile Application to help users track and acheieve their goals. It has an AI integrated bot to help them achieve, provide roadmaps, set milestones, also a buddy system so that they can compete and win rewards.
